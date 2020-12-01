@@ -15,17 +15,6 @@ body {
     font-family: fantasy;
 }
 
-#form {
-}
-
-/* Input Fields */
-.input_field {
-    /* width: 90px; 
-    height: 390px; 
-    border: 1px solid #999999; 
-    padding: 5px; */
-}
-
 #btn {
     background: rgb(142, 74, 23);
     color: rgb(211, 204, 193);
